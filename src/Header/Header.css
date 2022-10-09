@@ -1,0 +1,20 @@
+.header-link{
+    text-align: right;
+    position: sticky;
+    top:0px;
+    left:0;
+    z-index: 11;
+}
+.header-link a {
+    color:#fff;
+    font-size: 18px;
+    font-weight:bold;
+    text-decoration: none;
+    margin-right:20px;
+}
+.active{
+    color:black !important;
+    padding:10px 20px;
+    background:peru;
+    border-radius:15px;
+}

@@ -1,0 +1,33 @@
+.product-card-single{
+    border:1px solid black;
+    height:500px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 10px #15181a9c;
+}
+.card-image{
+    height:250px;
+}
+.card-image img{  
+    width:100%;
+    border-radius: 10px;
+    height:100%;
+}
+.card-info{
+    height:150px;
+    margin-top:20px;
+    font-size: 16px;
+    margin-left:20px;
+}
+.add-to-cart{
+    display: block;
+    margin:0 auto;
+    padding:10px 30px;
+    font-size: 18px;
+    color: #fff;
+    background-color: rgb(48, 48, 165);
+    border-radius: 10px;
+    margin-top:10px;
+    width: 90%;
+    cursor: pointer;
+}
